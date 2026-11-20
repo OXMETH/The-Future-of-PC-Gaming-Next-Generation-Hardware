@@ -13,4 +13,4 @@ Meanwhile, NVMe SSDs are reducing loading times and allowing developers to build
 But building a powerful PC isn't just about buying the most expensive components. Finding the right balance between CPU, GPU, RAM, cooling, and power consumption is what makes a truly great system.
 
 The future of PC gaming is not just about higher FPS. It's about better performance, smarter technology, improved efficiency, and more immersive experience
-The next generation of PC gaming is already taking shap
+The next generation of PC gaming is already taking sha
